@@ -22,7 +22,7 @@
 - Настройте балансировку Round-robin на 4 уровне.
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
-Файл HaProxy: 
+Файл HaProxy: https://github.com/Mars12121/HW-2/blob/main/haproxy1.cfg
 
 ![alt text](https://github.com/Mars12121/HW-2/blob/main/img/1.png)
 ![alt text](https://github.com/Mars12121/HW-2/blob/main/img/2.png)
@@ -36,7 +36,7 @@
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
-Файл HaProxy: 
+Файл HaProxy: https://github.com/Mars12121/HW-2/blob/main/haproxy2.cfg
 
 ![alt text](https://github.com/Mars12121/HW-2/blob/main/img/5.png)
 ![alt text](https://github.com/Mars12121/HW-2/blob/main/img/6.png)
